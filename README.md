@@ -50,3 +50,7 @@
 ## 卸载
 
 `坏血动作MOD\一键卸载.bat`：还原 rpack、`Data4.pak` 与 `dide_mod.ini`。
+
+---
+
+由 **DeepSeek HARNESS** 制作，**Lan_Asufin** 提供灵感
