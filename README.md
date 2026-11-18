@@ -5,10 +5,10 @@
 
 ## 下载
 
-- **推荐**：右侧 [Releases](../../releases) → 下载 `坏血mod.zip`（完整包，212.7 MB）
-- 如果 Releases 打不开：本目录里的 `parts\坏血mod.zip.001~003` 是同一个包的分卷，
-  三个都下载到同一文件夹，双击 `合并.bat` 得到 `坏血mod.zip`（校验 SHA256：
-  `84C1821D3F48FA2740F267B158EFA76EAB13B8865A3C05BE07A3738A99A26E26`）
+- **推荐**：右侧 [Releases](../../releases) → 下载 `BadBlood_Mod_v1.0.zip`（完整包，212.7 MB）
+- 备用：本目录 `parts\` 里是同一个包的分卷 `坏血mod.zip.001 ~ .011`，
+  全部下载到同一文件夹，双击 `parts\合并.bat` 得到 `坏血mod.zip`
+  （校验 SHA256：`84C1821D3F48FA2740F267B158EFA76EAB13B8865A3C05BE07A3738A99A26E26`）
 
 ## 包含内容
 
